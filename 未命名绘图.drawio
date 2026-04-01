@@ -1,0 +1,193 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="第 1 页" id="uVcr3udspdf7dqc2G7NV">
+    <mxGraphModel dx="1783" dy="929" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Vc9bszvoq4D2zmHvU3EB-1" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=19;" value="AI代码生成工具广泛进入C语言学习场景" vertex="1">
+          <mxGeometry height="78" width="260" x="640" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Vc9bszvoq4D2zmHvU3EB-2" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=19;" value="传统《C语言程序设计》课程体系受到系统性冲击" vertex="1">
+          <mxGeometry height="78" width="280" x="630" y="148" as="geometry" />
+        </mxCell>
+        <mxCell id="Vc9bszvoq4D2zmHvU3EB-3" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;fontSize=19;" value="1. 课程范式失效" vertex="1">
+          <mxGeometry height="54" width="175" x="62" y="276" as="geometry" />
+        </mxCell>
+        <mxCell id="Vc9bszvoq4D2zmHvU3EB-4" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;fontSize=19;" value="2. 学习成效异化" vertex="1">
+          <mxGeometry height="54" width="175" x="372" y="276" as="geometry" />
+        </mxCell>
+        <mxCell id="Vc9bszvoq4D2zmHvU3EB-5" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;fontSize=19;" value="3. C语言特殊危机" vertex="1">
+          <mxGeometry height="54" width="185" x="678" y="276" as="geometry" />
+        </mxCell>
+        <mxCell id="Vc9bszvoq4D2zmHvU3EB-6" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;fontSize=19;" value="4. 教学组织方式整体失配" vertex="1">
+          <mxGeometry height="54" width="239" x="960" y="276" as="geometry" />
+        </mxCell>
+        <mxCell id="Vc9bszvoq4D2zmHvU3EB-7" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;fontSize=19;" value="5. 评价与培养目标双失效" vertex="1">
+          <mxGeometry height="54" width="239" x="1270" y="276" as="geometry" />
+        </mxCell>
+        <mxCell id="Vc9bszvoq4D2zmHvU3EB-8" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=19;" value="“题目训练型”逻辑被AI直接击穿" vertex="1">
+          <mxGeometry height="78" width="260" x="20" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="Vc9bszvoq4D2zmHvU3EB-9" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=19;" value="完成更快但理解更浅，出现反直觉下降" vertex="1">
+          <mxGeometry height="78" width="260" x="330" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="Vc9bszvoq4D2zmHvU3EB-10" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=19;" value="低层语义与高认知负荷使理解断层被放大" vertex="1">
+          <mxGeometry height="78" width="260" x="640" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="Vc9bszvoq4D2zmHvU3EB-11" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=19;" value="知识结构、实验设计与AI规范均未完成转型" vertex="1">
+          <mxGeometry height="78" width="260" x="950" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="Vc9bszvoq4D2zmHvU3EB-12" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=19;" value="既测不准真实能力，也难对接产业需求" vertex="1">
+          <mxGeometry height="78" width="260" x="1260" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="Vc9bszvoq4D2zmHvU3EB-13" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=19;" value="传统习题、实验、提交结果不再具有能力区分度" vertex="1">
+          <mxGeometry height="78" width="260" x="20" y="532" as="geometry" />
+        </mxCell>
+        <mxCell id="Vc9bszvoq4D2zmHvU3EB-14" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=19;" value="学生可借AI快速完成任务，但解释、迁移、延伸能力不足" vertex="1">
+          <mxGeometry height="102" width="260" x="330" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="Vc9bszvoq4D2zmHvU3EB-15" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=19;" value="指针、内存、地址等核心概念更难掌握" vertex="1">
+          <mxGeometry height="102" width="260" x="640" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="Vc9bszvoq4D2zmHvU3EB-16" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=19;" value="教学目标仍停留于语法与实现" vertex="1">
+          <mxGeometry height="126" width="260" x="950" y="508" as="geometry" />
+        </mxCell>
+        <mxCell id="Vc9bszvoq4D2zmHvU3EB-17" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=19;" value="作业、实验、笔试难区分“学生能力”与“AI结果”" vertex="1">
+          <mxGeometry height="102" width="260" x="1260" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="Vc9bszvoq4D2zmHvU3EB-18" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=#008a00;strokeColor=#005700;fontColor=#ffffff;fontSize=19;" value="课程核心症结：传统C语言课程已无法适配AI时代" vertex="1">
+          <mxGeometry height="78" width="260" x="640" y="684" as="geometry" />
+        </mxCell>
+        <mxCell id="Vc9bszvoq4D2zmHvU3EB-19" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=#008a00;strokeColor=#005700;fontColor=#ffffff;fontSize=19;" value="必须开展系统性改革：重构课程目标、教学内容、实验体系与评价机制" vertex="1">
+          <mxGeometry height="102" width="260" x="640" y="812" as="geometry" />
+        </mxCell>
+        <mxCell id="Vc9bszvoq4D2zmHvU3EB-20" edge="1" parent="1" source="Vc9bszvoq4D2zmHvU3EB-1" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontSize=19;" target="Vc9bszvoq4D2zmHvU3EB-2" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vc9bszvoq4D2zmHvU3EB-21" edge="1" parent="1" source="Vc9bszvoq4D2zmHvU3EB-2" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.67;entryX=0.5;entryY=0;rounded=0;fontSize=19;" target="Vc9bszvoq4D2zmHvU3EB-3" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="150" y="251" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vc9bszvoq4D2zmHvU3EB-22" edge="1" parent="1" source="Vc9bszvoq4D2zmHvU3EB-2" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.84;entryX=0.5;entryY=0;rounded=0;fontSize=19;" target="Vc9bszvoq4D2zmHvU3EB-4" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="460" y="251" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vc9bszvoq4D2zmHvU3EB-23" edge="1" parent="1" source="Vc9bszvoq4D2zmHvU3EB-2" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontSize=19;" target="Vc9bszvoq4D2zmHvU3EB-5" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vc9bszvoq4D2zmHvU3EB-24" edge="1" parent="1" source="Vc9bszvoq4D2zmHvU3EB-2" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.84;entryX=0.5;entryY=0;rounded=0;fontSize=19;" target="Vc9bszvoq4D2zmHvU3EB-6" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1080" y="251" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vc9bszvoq4D2zmHvU3EB-25" edge="1" parent="1" source="Vc9bszvoq4D2zmHvU3EB-2" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.67;entryX=0.5;entryY=0;rounded=0;fontSize=19;" target="Vc9bszvoq4D2zmHvU3EB-7" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1390" y="251" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vc9bszvoq4D2zmHvU3EB-26" edge="1" parent="1" source="Vc9bszvoq4D2zmHvU3EB-3" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontSize=19;" target="Vc9bszvoq4D2zmHvU3EB-8" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vc9bszvoq4D2zmHvU3EB-27" edge="1" parent="1" source="Vc9bszvoq4D2zmHvU3EB-4" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontSize=19;" target="Vc9bszvoq4D2zmHvU3EB-9" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vc9bszvoq4D2zmHvU3EB-28" edge="1" parent="1" source="Vc9bszvoq4D2zmHvU3EB-5" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontSize=19;" target="Vc9bszvoq4D2zmHvU3EB-10" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vc9bszvoq4D2zmHvU3EB-29" edge="1" parent="1" source="Vc9bszvoq4D2zmHvU3EB-6" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontSize=19;" target="Vc9bszvoq4D2zmHvU3EB-11" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vc9bszvoq4D2zmHvU3EB-30" edge="1" parent="1" source="Vc9bszvoq4D2zmHvU3EB-7" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontSize=19;" target="Vc9bszvoq4D2zmHvU3EB-12" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vc9bszvoq4D2zmHvU3EB-31" edge="1" parent="1" source="Vc9bszvoq4D2zmHvU3EB-8" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontSize=19;" target="Vc9bszvoq4D2zmHvU3EB-13" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vc9bszvoq4D2zmHvU3EB-32" edge="1" parent="1" source="Vc9bszvoq4D2zmHvU3EB-9" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontSize=19;" target="Vc9bszvoq4D2zmHvU3EB-14" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vc9bszvoq4D2zmHvU3EB-33" edge="1" parent="1" source="Vc9bszvoq4D2zmHvU3EB-10" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontSize=19;" target="Vc9bszvoq4D2zmHvU3EB-15" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vc9bszvoq4D2zmHvU3EB-34" edge="1" parent="1" source="Vc9bszvoq4D2zmHvU3EB-11" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontSize=19;" target="Vc9bszvoq4D2zmHvU3EB-16" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vc9bszvoq4D2zmHvU3EB-35" edge="1" parent="1" source="Vc9bszvoq4D2zmHvU3EB-12" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontSize=19;" target="Vc9bszvoq4D2zmHvU3EB-17" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vc9bszvoq4D2zmHvU3EB-36" edge="1" parent="1" source="Vc9bszvoq4D2zmHvU3EB-13" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0;entryY=0.33;rounded=0;fontSize=19;" target="Vc9bszvoq4D2zmHvU3EB-18" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="150" y="659" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vc9bszvoq4D2zmHvU3EB-37" edge="1" parent="1" source="Vc9bszvoq4D2zmHvU3EB-14" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0;entryY=0.16;rounded=0;fontSize=19;" target="Vc9bszvoq4D2zmHvU3EB-18" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="460" y="659" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vc9bszvoq4D2zmHvU3EB-38" edge="1" parent="1" source="Vc9bszvoq4D2zmHvU3EB-15" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontSize=19;" target="Vc9bszvoq4D2zmHvU3EB-18" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vc9bszvoq4D2zmHvU3EB-39" edge="1" parent="1" source="Vc9bszvoq4D2zmHvU3EB-16" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=1;entryY=0.16;rounded=0;fontSize=19;" target="Vc9bszvoq4D2zmHvU3EB-18" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1080" y="659" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vc9bszvoq4D2zmHvU3EB-40" edge="1" parent="1" source="Vc9bszvoq4D2zmHvU3EB-17" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=1;entryY=0.33;rounded=0;fontSize=19;" target="Vc9bszvoq4D2zmHvU3EB-18" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1390" y="659" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vc9bszvoq4D2zmHvU3EB-41" edge="1" parent="1" source="Vc9bszvoq4D2zmHvU3EB-18" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontSize=19;" target="Vc9bszvoq4D2zmHvU3EB-19" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
