@@ -24,8 +24,8 @@
         <mxCell id="L9b9nwFQHvR4F6SCLs5d-67" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);fontSize=19;" value="核心方法：三类教学Agent协同体系" vertex="1">
           <mxGeometry height="680" width="597" x="1582" y="4390" as="geometry" />
         </mxCell>
-        <mxCell id="L9b9nwFQHvR4F6SCLs5d-68" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);fontSize=19;" value="拟解决的四个关键问题" vertex="1">
-          <mxGeometry height="128" width="870" x="1270" y="4000" as="geometry" />
+        <mxCell id="L9b9nwFQHvR4F6SCLs5d-68" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);fontSize=19;verticalAlign=top;" value="拟解决的四个关键问题" vertex="1">
+          <mxGeometry height="148" width="870" x="1270" y="3980" as="geometry" />
         </mxCell>
         <mxCell id="L9b9nwFQHvR4F6SCLs5d-69" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);fontSize=19;" value="问题1&#xa;教学任务失效" vertex="1">
           <mxGeometry height="78" width="156" x="1305" y="4025" as="geometry" />
