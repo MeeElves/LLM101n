@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="L9b9nwFQHvR4F6SCLs5d-64" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);fontSize=19;" value="项目目标" vertex="1">
+        <mxCell id="L9b9nwFQHvR4F6SCLs5d-64" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=19;verticalAlign=bottom;" value="项目目标" vertex="1">
           <mxGeometry height="176" width="1260" x="1058" y="5272" as="geometry" />
         </mxCell>
         <mxCell id="L9b9nwFQHvR4F6SCLs5d-126" edge="1" parent="1" source="L9b9nwFQHvR4F6SCLs5d-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="L9b9nwFQHvR4F6SCLs5d-86">
@@ -15,28 +15,28 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="L9b9nwFQHvR4F6SCLs5d-65" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);fontSize=19;verticalAlign=bottom;" value="64学时 / 32次课实施路径：&#xa;四阶段递进" vertex="1">
+        <mxCell id="L9b9nwFQHvR4F6SCLs5d-65" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=19;verticalAlign=bottom;" value="64学时 / 32次课实施路径：&#xa;四阶段递进" vertex="1">
           <mxGeometry height="680" width="274" x="1270" y="4390" as="geometry" />
         </mxCell>
         <mxCell id="L9b9nwFQHvR4F6SCLs5d-127" edge="1" parent="1" source="L9b9nwFQHvR4F6SCLs5d-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="L9b9nwFQHvR4F6SCLs5d-86">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="L9b9nwFQHvR4F6SCLs5d-67" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);fontSize=19;" value="核心方法：三类教学Agent协同体系" vertex="1">
+        <mxCell id="L9b9nwFQHvR4F6SCLs5d-67" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=19;" value="核心方法：三类教学Agent协同体系" vertex="1">
           <mxGeometry height="680" width="597" x="1582" y="4390" as="geometry" />
         </mxCell>
-        <mxCell id="L9b9nwFQHvR4F6SCLs5d-68" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);fontSize=19;verticalAlign=top;" value="拟解决的四个关键问题" vertex="1">
+        <mxCell id="L9b9nwFQHvR4F6SCLs5d-68" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=19;verticalAlign=top;" value="拟解决的四个关键问题" vertex="1">
           <mxGeometry height="148" width="870" x="1270" y="3980" as="geometry" />
         </mxCell>
-        <mxCell id="L9b9nwFQHvR4F6SCLs5d-69" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);fontSize=19;" value="问题1&#xa;教学任务失效" vertex="1">
+        <mxCell id="L9b9nwFQHvR4F6SCLs5d-69" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;fontSize=19;" value="问题1&#xa;教学任务失效" vertex="1">
           <mxGeometry height="78" width="156" x="1305" y="4025" as="geometry" />
         </mxCell>
-        <mxCell id="L9b9nwFQHvR4F6SCLs5d-70" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);fontSize=19;" value="问题2&#xa;学习浅表化" vertex="1">
+        <mxCell id="L9b9nwFQHvR4F6SCLs5d-70" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;fontSize=19;" value="问题2&#xa;学习浅表化" vertex="1">
           <mxGeometry height="78" width="140" x="1511" y="4025" as="geometry" />
         </mxCell>
-        <mxCell id="L9b9nwFQHvR4F6SCLs5d-71" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);fontSize=19;" value="问题3&#xa;C语言底层能力弱化" vertex="1">
+        <mxCell id="L9b9nwFQHvR4F6SCLs5d-71" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;fontSize=19;" value="问题3&#xa;C语言底层能力弱化" vertex="1">
           <mxGeometry height="78" width="198" x="1701" y="4025" as="geometry" />
         </mxCell>
-        <mxCell id="L9b9nwFQHvR4F6SCLs5d-72" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);fontSize=19;" value="问题4&#xa;评价体系失真" vertex="1">
+        <mxCell id="L9b9nwFQHvR4F6SCLs5d-72" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;fontSize=19;" value="问题4&#xa;评价体系失真" vertex="1">
           <mxGeometry height="78" width="156" x="1949" y="4025" as="geometry" />
         </mxCell>
         <mxCell id="L9b9nwFQHvR4F6SCLs5d-128" edge="1" parent="1" source="L9b9nwFQHvR4F6SCLs5d-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="L9b9nwFQHvR4F6SCLs5d-67">
@@ -51,49 +51,49 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="L9b9nwFQHvR4F6SCLs5d-73" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);fontSize=19;" value="总体解决思路&#xa;以自建教学Agent为核心认知支架，重构C语言课程“教—学—练—评”全过程" vertex="1">
+        <mxCell id="L9b9nwFQHvR4F6SCLs5d-73" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=19;" value="总体解决思路&#xa;以自建教学Agent为核心认知支架，重构C语言课程“教—学—练—评”全过程" vertex="1">
           <mxGeometry height="132" width="260" x="1558" y="4178" as="geometry" />
         </mxCell>
-        <mxCell id="L9b9nwFQHvR4F6SCLs5d-74" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);fontSize=19;" value="自建教学Agent平台&#xa;课程知识库 / 案例库 / 错题库 / 评价规则库 / 过程数据仓" vertex="1">
+        <mxCell id="L9b9nwFQHvR4F6SCLs5d-74" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;fontSize=19;" value="自建教学Agent平台&#xa;课程知识库 / 案例库 / 错题库 / 评价规则库 / 过程数据仓" vertex="1">
           <mxGeometry height="85" width="260" x="1751" y="4415" as="geometry" />
         </mxCell>
-        <mxCell id="L9b9nwFQHvR4F6SCLs5d-75" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);fontSize=19;" value="讲解型Agent&#xa;Concept Agent&#xa;概念解释&#xa;类比图示&#xa;代码讲解" vertex="1">
+        <mxCell id="L9b9nwFQHvR4F6SCLs5d-75" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;fontSize=19;" value="讲解型Agent&#xa;Concept Agent&#xa;概念解释&#xa;类比图示&#xa;代码讲解" vertex="1">
           <mxGeometry height="150" width="164" x="1795" y="4529.5" as="geometry" />
         </mxCell>
-        <mxCell id="L9b9nwFQHvR4F6SCLs5d-76" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);fontSize=19;" value="诊断型Agent&#xa;Debug Agent&#xa;错误定位&#xa;引导反馈&#xa;Bug分析" vertex="1">
+        <mxCell id="L9b9nwFQHvR4F6SCLs5d-76" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;fontSize=19;" value="诊断型Agent&#xa;Debug Agent&#xa;错误定位&#xa;引导反馈&#xa;Bug分析" vertex="1">
           <mxGeometry height="150" width="149" x="1620" y="4797.5" as="geometry" />
         </mxCell>
-        <mxCell id="L9b9nwFQHvR4F6SCLs5d-77" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);fontSize=19;" value="协同开发Agent&#xa;Coding Agent&#xa;方案生成&#xa;代码重构&#xa;协同编程" vertex="1">
+        <mxCell id="L9b9nwFQHvR4F6SCLs5d-77" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;fontSize=19;" value="协同开发Agent&#xa;Coding Agent&#xa;方案生成&#xa;代码重构&#xa;协同编程" vertex="1">
           <mxGeometry height="150" width="165" x="2000" y="4789.5" as="geometry" />
         </mxCell>
-        <mxCell id="L9b9nwFQHvR4F6SCLs5d-82" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);fontSize=19;" value="第一阶段&#xa;基础能力构建&#xa;以讲解型Agent为主" vertex="1">
+        <mxCell id="L9b9nwFQHvR4F6SCLs5d-82" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;fontSize=19;" value="第一阶段&#xa;基础能力构建&#xa;以讲解型Agent为主" vertex="1">
           <mxGeometry height="102" width="197" x="1308" y="4415" as="geometry" />
         </mxCell>
-        <mxCell id="L9b9nwFQHvR4F6SCLs5d-83" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);fontSize=19;" value="第二阶段&#xa;核心机制强化&#xa;引入诊断型Agent" vertex="1">
+        <mxCell id="L9b9nwFQHvR4F6SCLs5d-83" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;fontSize=19;" value="第二阶段&#xa;核心机制强化&#xa;引入诊断型Agent" vertex="1">
           <mxGeometry height="102" width="181" x="1316" y="4567" as="geometry" />
         </mxCell>
         <mxCell id="L9b9nwFQHvR4F6SCLs5d-122" edge="1" parent="1" source="L9b9nwFQHvR4F6SCLs5d-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="L9b9nwFQHvR4F6SCLs5d-85">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="L9b9nwFQHvR4F6SCLs5d-84" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);fontSize=19;" value="第三阶段&#xa;理解与协同过渡&#xa;三类Agent联动" vertex="1">
+        <mxCell id="L9b9nwFQHvR4F6SCLs5d-84" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;fontSize=19;" value="第三阶段&#xa;理解与协同过渡&#xa;三类Agent联动" vertex="1">
           <mxGeometry height="102" width="172" x="1320.5" y="4725" as="geometry" />
         </mxCell>
-        <mxCell id="L9b9nwFQHvR4F6SCLs5d-85" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);fontSize=19;" value="第四阶段&#xa;工程实践与综合应用&#xa;全面协同开发" vertex="1">
+        <mxCell id="L9b9nwFQHvR4F6SCLs5d-85" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;fontSize=19;" value="第四阶段&#xa;工程实践与综合应用&#xa;全面协同开发" vertex="1">
           <mxGeometry height="102" width="204" x="1304" y="4885" as="geometry" />
         </mxCell>
-        <mxCell id="L9b9nwFQHvR4F6SCLs5d-86" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);fontSize=19;" value="过程化评价与反馈闭环&#xa;" vertex="1">
-          <mxGeometry height="60" width="260" x="1558" y="5132" as="geometry" />
+        <mxCell id="L9b9nwFQHvR4F6SCLs5d-86" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=19;" value="过程化评价与反馈闭环&#xa;" vertex="1">
+          <mxGeometry height="60" width="260" x="1558" y="5137" as="geometry" />
         </mxCell>
-        <mxCell id="L9b9nwFQHvR4F6SCLs5d-87" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);fontSize=19;" value="目标1&#xa;建立三类Agent协同的教学新模式" vertex="1">
+        <mxCell id="L9b9nwFQHvR4F6SCLs5d-87" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=#008a00;strokeColor=#005700;fontColor=#ffffff;fontSize=19;" value="目标1&#xa;建立三类Agent协同的教学新模式" vertex="1">
           <mxGeometry height="102" width="260" x="1093" y="5309" as="geometry" />
         </mxCell>
-        <mxCell id="L9b9nwFQHvR4F6SCLs5d-88" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);fontSize=19;" value="目标2&#xa;形成“四阶段递进 + 四段式闭环”的课程实施结构" vertex="1">
+        <mxCell id="L9b9nwFQHvR4F6SCLs5d-88" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=#008a00;strokeColor=#005700;fontColor=#ffffff;fontSize=19;" value="目标2&#xa;形成“四阶段递进 + 四段式闭环”的课程实施结构" vertex="1">
           <mxGeometry height="102" width="260" x="1403" y="5309" as="geometry" />
         </mxCell>
-        <mxCell id="L9b9nwFQHvR4F6SCLs5d-89" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);fontSize=19;" value="目标3&#xa;提升代码理解深度、指针/内存等底层能力与AI协同开发能力" vertex="1">
+        <mxCell id="L9b9nwFQHvR4F6SCLs5d-89" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=#008a00;strokeColor=#005700;fontColor=#ffffff;fontSize=19;" value="目标3&#xa;提升代码理解深度、指针/内存等底层能力与AI协同开发能力" vertex="1">
           <mxGeometry height="126" width="260" x="1713" y="5297" as="geometry" />
         </mxCell>
-        <mxCell id="L9b9nwFQHvR4F6SCLs5d-90" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);fontSize=19;" value="目标4&#xa;构建过程化评价体系，形成可复制、可推广的改革方案" vertex="1">
+        <mxCell id="L9b9nwFQHvR4F6SCLs5d-90" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=#008a00;strokeColor=#005700;fontColor=#ffffff;fontSize=19;" value="目标4&#xa;构建过程化评价体系，形成可复制、可推广的改革方案" vertex="1">
           <mxGeometry height="102" width="260" x="2023" y="5309" as="geometry" />
         </mxCell>
         <mxCell id="L9b9nwFQHvR4F6SCLs5d-91" edge="1" parent="1" source="L9b9nwFQHvR4F6SCLs5d-69" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0;entryY=0.24;rounded=0;fontSize=19;" target="L9b9nwFQHvR4F6SCLs5d-73" value="">
